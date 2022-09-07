@@ -12,7 +12,14 @@
 [<img align="left" alt="carlos.r.leon | Instagram" width="32px" src="https://user-images.githubusercontent.com/26015056/188917339-b25bb5d0-4c5b-48b1-be4a-edd9b72277e3.png" />][instagram] 
 [<img align="left" alt="carlos.r.leon | linkedin" width="32px" src="https://user-images.githubusercontent.com/26015056/188923370-36f76ba1-e023-4153-8f90-f996cd7b046a.png" />][linkedin] 
 [<img align="left" alt="LeonRCarlos | twitter" width="32px" src="https://user-images.githubusercontent.com/26015056/188924103-f5006894-2c3f-4534-9d6d-05975f702528.png" />][twitter] 
-
+</br>
+</br>
+## Languages & Tools
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 [behance]: https://www.behance.net/crlc
