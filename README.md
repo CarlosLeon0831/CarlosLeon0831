@@ -8,18 +8,12 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: carlosleon0831@gmail.com
 
-</br>
-</br>
-
 ## Socials
-[<img align="left" alt="crlc | Behance" width="32px" src="https://user-images.githubusercontent.com/26015056/188921431-f39d9996-97cb-49e1-9051-59d1695c035c.png" />][Behance]
-[<img align="left" alt="CarlosRLeon | Dribbble" width="32px" src="https://user-images.githubusercontent.com/26015056/188922401-6663b85b-ee1c-4aaf-8b61-82561906ed6d.png" />][dribbble]
-[<img align="left" alt="carlos.r.leon | Instagram" width="32px" src="https://user-images.githubusercontent.com/26015056/188917339-b25bb5d0-4c5b-48b1-be4a-edd9b72277e3.png" />][instagram] 
-[<img align="left" alt="carlos.r.leon | linkedin" width="32px" src="https://user-images.githubusercontent.com/26015056/188923370-36f76ba1-e023-4153-8f90-f996cd7b046a.png" />][linkedin] 
-[<img align="left" alt="LeonRCarlos | twitter" width="32px" src="https://user-images.githubusercontent.com/26015056/188924103-f5006894-2c3f-4534-9d6d-05975f702528.png" />][twitter] 
-
-
-
+[<img align="left" alt="crlc | Behance" width="32px" src="https://user-images.githubusercontent.com/26015056/189045228-e96a3eb3-154f-494e-bcae-7af8e53085e3.png" />][Behance]
+[<img align="left" alt="CarlosRLeon | Dribbble" width="32px" src="https://user-images.githubusercontent.com/26015056/189045229-3e05d588-337f-4b4b-8a8b-f4b45319b8c3.png" />][dribbble]
+[<img align="left" alt="carlos.r.leon | Instagram" width="32px" src="https://user-images.githubusercontent.com/26015056/189045232-1a96de8d-cee8-4957-8026-8453dc50127e.png" />][instagram] 
+[<img align="left" alt="carlos.r.leon | linkedin" width="32px" src="https://user-images.githubusercontent.com/26015056/189045234-6da9c737-dcf1-4a39-854a-cd1a2fcc391b.png" />][linkedin] 
+[<img align="left" alt="LeonRCarlos | twitter" width="32px" src="https://user-images.githubusercontent.com/26015056/189045235-71e2f8f0-3587-43ba-b5c7-649fed0a1aa0.png" />][twitter] 
 </br>
 </br>
 
