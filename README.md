@@ -1,10 +1,14 @@
 # I'm a Designer & Developer
 
+<img align="right" alt="HTML5" width="500px" src="https://user-images.githubusercontent.com/26015056/189008974-e83dbdd3-2325-48a1-9f6e-b433faadc603.png" />
+
 - 👋 Hi, I’m @CarlosLeon0831
 - 👀 I’m interested in becoming a full time Front-end Developer
 - 🌱 I’m currently learning along with The Odin Project
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: carlosleon0831@gmail.com
+
+
 
 ## Socials
 [<img align="left" alt="crlc | Behance" width="32px" src="https://user-images.githubusercontent.com/26015056/188921431-f39d9996-97cb-49e1-9051-59d1695c035c.png" />][Behance]
