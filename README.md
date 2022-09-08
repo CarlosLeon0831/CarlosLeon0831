@@ -1,6 +1,6 @@
 # I'm a Designer & Developer
 
-<img align="right" alt="HTML5" width="400px" src="https://user-images.githubusercontent.com/26015056/189021892-86791654-90c6-4a34-a12c-be7ba1f9c445.png" />
+<img align="right" alt="HTML5" width="400px" src="https://user-images.githubusercontent.com/26015056/189046796-27f0a9f9-93a8-4e30-8aa4-5dd330a70f9a.png" />
 
 - 👋 Hi, I’m @CarlosLeon0831
 - 👀 I’m interested in becoming a full time Front-end Developer
